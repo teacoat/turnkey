@@ -1,0 +1,18 @@
+﻿Title: Contact
+
+----
+
+Hours: ####Hours
+Monday: 9-6
+Tuesday: 9-6
+Wednesday: 9-6
+Thursday: 9-9
+Friday: 9-9
+Saturday: 9-6
+Sunday: 11-5
+
+####Phone
+519-442-4242
+
+####Address
+43 Grand River Street, Paris, Ontario

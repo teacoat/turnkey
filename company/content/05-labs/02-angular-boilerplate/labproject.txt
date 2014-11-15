@@ -1,0 +1,13 @@
+﻿Title: Angular Boilerplate
+
+----
+
+Link: bit.ly/1wk4jYI
+
+----
+
+Mainimage: (image: image1.png title: Hiarchy Screenshot)
+
+----
+
+Text: This is our stock Angular boilerplate, it includes everything you need to quickly start coding an Angular app.

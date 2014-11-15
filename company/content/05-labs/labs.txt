@@ -1,0 +1,7 @@
+﻿Title: Labs
+
+----
+
+Text: The labs are where we showcase some of the more experimental and out-there things that we are doing in our free time. They tend to be skewed towards cutting-edge things that not everyone might understand.
+
+It is crucial that as you are looking at these, you understand that they are not finished products nor meant for anything other than being neat, and you may experience some bugs. If you want to let us know about any bugs you encounter, that'd be great!

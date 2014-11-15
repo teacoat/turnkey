@@ -1,0 +1,9 @@
+﻿Title: Bed 1
+
+----
+
+Price: 300
+
+----
+
+Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus venenatis augue a sapien vulputate suscipit. Quisque imperdiet ante vel efficitur facilisis. Curabitur eu tellus in lectus viverra congue in at urna. Nulla tellus tortor, suscipit eget pretium vel, bibendum eu dolor. Fusce sed tellus pulvinar, sodales elit vitae, viverra augue. Aliquam dictum non leo sit amet ultricies. Suspendisse sodales lacinia nisi

@@ -1,0 +1,8 @@
+﻿Title: CLIENT HELP PAGE
+
+----
+
+Text: Notes
+
+Products
+- Must have one image named main.jpg

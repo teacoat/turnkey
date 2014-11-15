@@ -1,0 +1,21 @@
+﻿Title: FineLine Glass Design
+
+----
+
+Link: finelineglassdesign.ca
+
+----
+
+Mainimage: image1.png
+
+----
+
+Text: A site for a stained glass artist, this site is quite simple yet effective at showcasing work.
+
+Built on a Wordpress backend, the site comes with a nice CMS that allows the client to easily add and update pages as well as manage media and events.
+
+The homepage layout relies on a card system, which makes it automatically responsive. The interior pages and navigation are also responsive and work great on mobile devies.
+
+Also included with the site was original logo design and business card design to solidify the brand.
+
+We went the free route and advertised the site on Reddit (in the stained glass subreddit) and got a pretty solid response and a good amount of traffic coming from it.

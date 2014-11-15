@@ -1,0 +1,15 @@
+﻿Title: Toolkit
+
+----
+
+Link: turnkeydigital.ca/lab/toolkit
+
+----
+
+Mainimage: (image: image1.png title: Toolkit Screenshot)
+
+----
+
+Text: A set of tools we have been developing in order to help out web developers and designers with mundane tasks.
+
+We only have two tools so far; a list generator and a color palette generator, but there are many more tools planned.

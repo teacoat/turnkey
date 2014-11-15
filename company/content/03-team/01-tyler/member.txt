@@ -1,0 +1,9 @@
+Title: Tyler Coté
+----
+link: t-cote.ca
+----
+Role: Founder/Lead Developer
+----
+Text: sdfdsnfu sdfsdfjn sdkfj nsdkf sdfdjsf
+----
+Image: (image: image.jpg title: Shot of the homepage)
